@@ -1,6 +1,6 @@
 ### Hi there 👋! I am a Computer Science Graduate student at the University of Cincinnati. I have 3+ years experience in Software Engineering.
 
-Skills: Angular, C#, .NET Core, Typescript, JavaScript, Azure, Python, Django, Node.js, Clean Code, SQL/NoSQL.
+Skills: Java, C#, .NET Core, Typescript, JavaScript, Python, Angular, Django, Node.js, Azure, Clean Code, SQL/NoSQL.
 - 🔭 I’m currently working at the Digital Scholarship Center in University of Cincinnati.
 - 🌱 I’m currently learning Django, React and AWS!
 <!--
