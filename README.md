@@ -1,4 +1,4 @@
-### Hi there 👋! I am a Computer Science Graduate student at the University of Cincinnati. I have 3+ years experience in Software Engineering.
+### Hi there 👋! I am a Software Engineer with 4+ years of experience working on high-impact projects. I am passionate and skilled in problem solving, full stack web development, distributed systems, learning new technologies and delivering high quality software.
 
 Skills: Java, C#, .NET Core, Typescript, JavaScript, Python, Angular, Django, Node.js, Azure, Clean Code, SQL/NoSQL.
 - 🔭 I’m currently working at the Digital Scholarship Center in University of Cincinnati.
